@@ -1,0 +1,398 @@
+[ 2016-02-18T14:50:52+08:00 ] ::1 /wxtest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001613s ]
+
+[ 2016-02-18T14:57:27+08:00 ] ::1 /wxtest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001281s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\lanewechat.php 第 4 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 39 行.
+NOTIC: [8] Undefined index: msgtype D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechatrequest.lib.php 第 21 行.
+NOTIC: [8] Undefined index: fromusername D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechatrequest.lib.php 第 118 行.
+NOTIC: [8] Undefined index: tousername D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechatrequest.lib.php 第 118 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001344s ]
+
+[ 2016-02-18T14:58:53+08:00 ] ::1 /wxtest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\lanewechat.php 第 4 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 39 行.
+NOTIC: [8] Undefined index: msgtype D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechatrequest.lib.php 第 21 行.
+NOTIC: [8] Undefined index: fromusername D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechatrequest.lib.php 第 118 行.
+NOTIC: [8] Undefined index: tousername D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechatrequest.lib.php 第 118 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000672s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2016-02-18T15:00:48+08:00 ] ::1 /wxtest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\lanewechat.php 第 4 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 39 行.
+NOTIC: [8] Undefined index: signature D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 93 行.
+NOTIC: [8] Undefined index: timestamp D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 94 行.
+NOTIC: [8] Undefined index: nonce D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2016-02-18T15:11:10+08:00 ] ::1 /wxtest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\lanewechat.php 第 4 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 39 行.
+NOTIC: [8] Undefined index: signature D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 93 行.
+NOTIC: [8] Undefined index: timestamp D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 94 行.
+NOTIC: [8] Undefined index: nonce D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001152s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001384s ]
+
+[ 2016-02-18T15:12:36+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\lanewechat.php 第 4 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 39 行.
+NOTIC: [8] Undefined index: signature D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 93 行.
+NOTIC: [8] Undefined index: timestamp D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 94 行.
+NOTIC: [8] Undefined index: nonce D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001103s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001309s ]
+
+[ 2016-02-18T16:47:42+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001162s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\lanewechat.php 第 4 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 39 行.
+NOTIC: [8] Undefined index: signature D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 93 行.
+NOTIC: [8] Undefined index: timestamp D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 94 行.
+NOTIC: [8] Undefined index: nonce D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001352s ]
+
+[ 2016-02-18T16:48:16+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\lanewechat.php 第 4 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 39 行.
+NOTIC: [8] Undefined index: msgtype D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechatrequest.lib.php 第 21 行.
+NOTIC: [8] Undefined index: fromusername D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechatrequest.lib.php 第 118 行.
+NOTIC: [8] Undefined index: tousername D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechatrequest.lib.php 第 118 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000887s ]
+
+[ 2016-02-18T16:48:45+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\lanewechat.php 第 4 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 39 行.
+NOTIC: [8] Undefined index: msgtype D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechatrequest.lib.php 第 21 行.
+NOTIC: [8] Undefined index: fromusername D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechatrequest.lib.php 第 118 行.
+NOTIC: [8] Undefined index: tousername D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechatrequest.lib.php 第 118 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001415s ]
+
+[ 2016-02-18T17:07:09+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002515s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\lanewechat.php 第 4 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 39 行.
+
+[ 2016-02-18T17:12:01+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001617s ]
+NOTIC: [8] Undefined index: echostr D:\wamp\www\wxtest\wx_sample.php 第 15 行.
+NOTIC: [8] Undefined index: signature D:\wamp\www\wxtest\wx_sample.php 第 70 行.
+NOTIC: [8] Undefined index: timestamp D:\wamp\www\wxtest\wx_sample.php 第 71 行.
+NOTIC: [8] Undefined index: nonce D:\wamp\www\wxtest\wx_sample.php 第 72 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\lanewechat.php 第 4 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 39 行.
+NOTIC: [8] Undefined index: signature D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 93 行.
+NOTIC: [8] Undefined index: timestamp D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 94 行.
+NOTIC: [8] Undefined index: nonce D:\wamp\www\wxtest\ThinkPHP\Library\Vendor\lanewechat\core\wechat.lib.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010496s ]
+
+[ 2016-02-18T17:45:39+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+
+[ 2016-02-18T17:46:02+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+
+[ 2016-02-18T17:46:03+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+
+[ 2016-02-18T17:46:03+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001015s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+
+[ 2016-02-18T17:46:03+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001015s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+
+[ 2016-02-18T17:47:03+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+
+[ 2016-02-18T17:50:50+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2016-02-18T17:51:02+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002479s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2016-02-18T17:51:52+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001479s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+
+[ 2016-02-18T17:52:10+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+
+[ 2016-02-18T17:54:06+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+
+[ 2016-02-18T17:54:13+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+
+[ 2016-02-18T17:54:57+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 28 行.
+
+[ 2016-02-18T17:55:41+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 28 行.
+
+[ 2016-02-18T18:06:22+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001225s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 29 行.
+
+[ 2016-02-18T23:26:21+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002658s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002061s ]
+
+[ 2016-02-18T23:38:45+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001698s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+
+[ 2016-02-18T23:40:35+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002956s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001775s ]
+
+[ 2016-02-18T23:42:07+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001417s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002921s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003278s ]
+
+[ 2016-02-18T23:44:57+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.050309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.050671s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001882s ]
+
+[ 2016-02-18T23:48:15+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.063466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.063806s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 96 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001740s ]
+
+[ 2016-02-18T23:51:01+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010330s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001745s ]
+
+[ 2016-02-18T23:53:06+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002120s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002174s ]
+

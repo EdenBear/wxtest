@@ -1,0 +1,19 @@
+﻿======发送图文消息====1455868110=======
+
+======发送图文消息====1455868162=======
+
+<xml>
+                        <ToUserName><![CDATA[oCmwKv_7UyoFc_Tv_h00kMKKNdF4]]></ToUserName>
+                        <FromUserName><![CDATA[gh_3188c7eff438]]></FromUserName>
+                        <CreateTime>1455868162</CreateTime>
+                        <MsgType><![CDATA[news]]></MsgType>
+                        <ArticleCount>1</ArticleCount>
+                        <Articles>
+                            <item>
+                                <Title><![CDATA[功能测试]]></Title> 
+                                <Description><![CDATA[Welcome to wechat world!]]></Description>
+                                <PicUrl><![CDATA[http://localhost/wxtest/img/1.jpg]]></PicUrl>
+                                <Url><![CDATA[]]></Url>
+                            </item>
+                        </Articles>
+                    </xml>

@@ -1,0 +1,2009 @@
+[ 2016-02-19T00:13:31+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001562s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] file_get_contents(accesstoken.txt): failed to open stream: No such file or directory D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 70 行.
+
+[ 2016-02-19T00:25:06+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009589s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] file_get_contents(accesstoken.txt): failed to open stream: No such file or directory D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 108 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001729s ]
+
+[ 2016-02-19T00:25:54+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002624s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+
+[ 2016-02-19T00:26:15+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001409s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+
+[ 2016-02-19T00:27:39+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002321s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+
+[ 2016-02-19T00:28:32+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001896s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+
+[ 2016-02-19T00:29:43+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005219s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+
+[ 2016-02-19T00:30:01+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001349s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+
+[ 2016-02-19T00:35:21+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 106 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001363s ]
+
+[ 2016-02-19T00:37:19+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002213s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002712s ]
+
+[ 2016-02-19T00:37:23+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001689s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000889s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001061s ]
+
+[ 2016-02-19T00:37:58+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001722s ]
+
+[ 2016-02-19T00:37:59+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2016-02-19T00:38:00+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000905s ]
+
+[ 2016-02-19T00:38:01+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001621s ]
+
+[ 2016-02-19T00:38:48+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001202s ]
+
+[ 2016-02-19T00:39:46+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 108 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000854s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001047s ]
+
+[ 2016-02-19T00:39:56+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002355s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 108 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004146s ]
+
+[ 2016-02-19T00:39:57+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002212s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 108 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001146s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001393s ]
+
+[ 2016-02-19T00:40:18+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002198s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 108 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001276s ]
+
+[ 2016-02-19T00:40:42+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002412s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002854s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003478s ]
+
+[ 2016-02-19T00:40:56+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000931s ]
+
+[ 2016-02-19T00:41:47+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003204s ]
+
+[ 2016-02-19T00:43:46+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 108 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002210s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002693s ]
+
+[ 2016-02-19T10:42:57+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001906s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 106 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002104s ]
+
+[ 2016-02-19T10:43:59+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002545s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 106 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001687s ]
+
+[ 2016-02-19T10:45:39+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.056408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002237s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 106 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001740s ]
+
+[ 2016-02-19T10:50:16+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.037999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.038353s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002188s ]
+
+[ 2016-02-19T10:51:07+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009768s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004569s ]
+
+[ 2016-02-19T10:52:26+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011568s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001935s ]
+
+[ 2016-02-19T10:59:17+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000454s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001955s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022171s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001750s ]
+
+[ 2016-02-19T11:03:35+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 106 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001541s ]
+
+[ 2016-02-19T11:03:54+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001188s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 106 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001661s ]
+
+[ 2016-02-19T11:05:30+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 106 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000989s ]
+
+[ 2016-02-19T11:06:05+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 106 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001526s ]
+
+[ 2016-02-19T11:11:13+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001318s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 108 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001208s ]
+
+[ 2016-02-19T11:32:45+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 108 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001566s ]
+
+[ 2016-02-19T11:35:38+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001940s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001690s ]
+
+[ 2016-02-19T11:44:16+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 120 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001242s ]
+
+[ 2016-02-19T11:44:45+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 121 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000895s ]
+
+[ 2016-02-19T11:45:46+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001021s ]
+
+[ 2016-02-19T11:47:17+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 120 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2016-02-19T12:02:38+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002938s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 108 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001491s ]
+
+[ 2016-02-19T12:03:21+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001143s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009589s ]
+
+[ 2016-02-19T12:03:45+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001671s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2016-02-19T12:04:08+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003133s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001676s ]
+
+[ 2016-02-19T12:04:59+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000983s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005692s ]
+
+[ 2016-02-19T12:05:32+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002397s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002510s ]
+
+[ 2016-02-19T13:52:25+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001396s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.023279s ]
+
+[ 2016-02-19T13:53:25+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004646s ]
+
+[ 2016-02-19T14:02:52+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.029191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.029974s ]
+
+[ 2016-02-19T14:14:52+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 39 行.
+
+[ 2016-02-19T14:14:53+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001544s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 39 行.
+
+[ 2016-02-19T14:15:24+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 40 行.
+
+[ 2016-02-19T14:15:57+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001523s ]
+
+[ 2016-02-19T14:16:13+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002172s ]
+
+[ 2016-02-19T14:31:08+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001431s ]
+
+[ 2016-02-19T14:36:01+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002177s ]
+
+[ 2016-02-19T14:40:16+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001852s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002149s ]
+
+[ 2016-02-19T14:41:37+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000974s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001233s ]
+
+[ 2016-02-19T14:57:27+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+ERR: Think\Controller:writeLog方法不存在！
+
+[ 2016-02-19T14:58:36+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001840s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001178s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002776s ]
+
+[ 2016-02-19T15:00:04+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004002s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001286s ]
+
+[ 2016-02-19T15:00:24+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 111 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003320s ]
+
+[ 2016-02-19T15:02:56+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001797s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 113 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001175s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001460s ]
+
+[ 2016-02-19T15:04:27+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 114 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001477s ]
+
+[ 2016-02-19T15:04:56+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 115 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012751s ]
+
+[ 2016-02-19T15:05:26+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003557s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 116 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001373s ]
+
+[ 2016-02-19T15:06:28+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001807s ]
+
+[ 2016-02-19T15:08:50+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001249s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001958s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002218s ]
+
+[ 2016-02-19T15:36:15+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+
+[ 2016-02-19T15:37:24+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001198s ]
+
+[ 2016-02-19T15:37:44+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+
+[ 2016-02-19T15:38:03+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001773s ]
+
+[ 2016-02-19T15:38:20+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001813s ]
+
+[ 2016-02-19T15:40:26+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001874s ]
+
+[ 2016-02-19T15:48:15+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001545s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+
+[ 2016-02-19T15:48:30+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [2] sprintf(): Too few arguments D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 133 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001792s ]
+
+[ 2016-02-19T15:49:22+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002053s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002988s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003272s ]
+
+[ 2016-02-19T15:57:07+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001335s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001802s ]
+
+[ 2016-02-19T16:38:33+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001386s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 101 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001609s ]
+
+[ 2016-02-19T16:42:17+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001830s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-02-19T17:01:38+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002273s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-02-19T17:02:35+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-02-19T17:02:41+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001210s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-02-19T17:04:02+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001385s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0062s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 101 行.
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wx_member` WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 ) LIMIT 1  
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wx_member` WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 ) LIMIT 1  
+
+[ 2016-02-19T17:05:08+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001327s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0216s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 101 行.
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wx_member` WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 ) LIMIT 1  
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wx_member` WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 ) LIMIT 1  
+
+[ 2016-02-19T17:06:35+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006962s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0299s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 101 行.
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wx_member` WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 ) LIMIT 1  
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wx_member` WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 ) LIMIT 1  
+
+[ 2016-02-19T17:07:35+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004949s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0090s ]
+
+[ 2016-02-19T17:08:32+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001941s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0087s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 101 行.
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wx_member` WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 ) LIMIT 1  
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wx_member` WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 ) LIMIT 1  
+
+[ 2016-02-19T17:09:57+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003017s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0280s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 101 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2016-02-19T17:10:47+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004938s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001772s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0065s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 101 行.
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wx_member` WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 ) LIMIT 1  
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wx_member` WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 ) LIMIT 1  
+
+[ 2016-02-19T17:11:00+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001250s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0080s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 101 行.
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wx_member` WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 ) LIMIT 1  
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wx_member` WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 ) LIMIT 1  
+
+[ 2016-02-19T17:12:32+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000983s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003924s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0073s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 101 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' LIMIT 1   [ RunTime:0.0027s ]
+SQL: INSERT INTO `wx_member` (`openid`,`nickname`,`sex`,`city`,`province`,`country`,`headimgurl`,`subscribe_time`,`unionid`,`status`) VALUES ('oCmwKv_7UyoFc_Tv_h00kMKKNdF4','EK熊','1','潮州','广东','中国','http://wx.qlogo.cn/mmopen/9zycFwV6r98N1RAUqqtkeY6qjDCtA6rB9FpKTfL3yMqL6Rxn2zMBl2r40s43aGQpicYTp8nLec3oNvxLJPbhDhExArEhicMrEU/0','1455868205','olbkKt6xtiI-xll7DeJpk2YPQ3G0','1') [ RunTime:0.0053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001759s ]
+NOTIC: [8] Constant APP_STATUS already defined D:\wamp\www\wxtest\index.php 第 27 行.
+
+[ 2016-02-19T17:12:55+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001200s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0073s ]
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : UPDATE `wx_member` SET `unsubscribe_time`='1455873175',`status`='2' WHERE `openid` = oCmwKv_7UyoFc_Tv_h00kMKKNdF4
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : UPDATE `wx_member` SET `unsubscribe_time`='1455873175',`status`='2' WHERE `openid` = oCmwKv_7UyoFc_Tv_h00kMKKNdF4
+
+[ 2016-02-19T17:13:59+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0121s ]
+
+[ 2016-02-19T17:16:52+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001414s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004092s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004969s ]
+NOTIC: [8] Constant APP_STATUS already defined D:\wamp\www\wxtest\index.php 第 27 行.
+
+[ 2016-02-19T17:17:07+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001652s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 37 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001354s ]
+NOTIC: [8] Constant APP_STATUS already defined D:\wamp\www\wxtest\index.php 第 27 行.
+
+[ 2016-02-19T17:17:08+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 37 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004160s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004424s ]
+NOTIC: [8] Constant APP_STATUS already defined D:\wamp\www\wxtest\index.php 第 27 行.
+
+[ 2016-02-19T17:17:43+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001980s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+
+[ 2016-02-19T17:18:24+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+
+[ 2016-02-19T17:18:36+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003364s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+
+[ 2016-02-19T17:18:59+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002022s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+
+[ 2016-02-19T17:22:15+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001355s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0066s ]
+
+[ 2016-02-19T17:23:07+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001230s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0100s ]
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : UPDATE `wx_member` SET `unsubscribe_time`='1455873787',`status`='2' WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 )
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : UPDATE `wx_member` SET `unsubscribe_time`='1455873787',`status`='2' WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 )
+
+[ 2016-02-19T17:23:29+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004726s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0062s ]
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : UPDATE `wx_member` SET `unsubscribe_time`='1455873809',`status`='2' WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 )
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : UPDATE `wx_member` SET `unsubscribe_time`='1455873809',`status`='2' WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 )
+
+[ 2016-02-19T17:26:27+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001480s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0082s ]
+
+[ 2016-02-19T17:26:43+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+
+[ 2016-02-19T17:26:51+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001365s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0127s ]
+
+[ 2016-02-19T17:27:12+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001632s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0102s ]
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : UPDATE `wx_member` SET `unsubscribe_time`='1455874032',`status`='2' WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 )
+ERR: 1054:Champ 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' inconnu dans where clause
+ [ SQL语句 ] : UPDATE `wx_member` SET `unsubscribe_time`='1455874032',`status`='2' WHERE ( openid=oCmwKv_7UyoFc_Tv_h00kMKKNdF4 )
+
+[ 2016-02-19T17:27:58+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001785s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0194s ]
+SQL: UPDATE `wx_member` SET `unsubscribe_time`='1455874078',`status`='2' WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' [ RunTime:0.0064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001235s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002045s ]
+NOTIC: [8] Constant APP_STATUS already defined D:\wamp\www\wxtest\index.php 第 27 行.
+
+[ 2016-02-19T17:29:38+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0079s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 101 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `wx_member` SET `openid`='oCmwKv_7UyoFc_Tv_h00kMKKNdF4',`nickname`='EK熊',`sex`='1',`city`='潮州',`province`='广东',`country`='中国',`headimgurl`='http://wx.qlogo.cn/mmopen/9zycFwV6r98N1RAUqqtkeY6qjDCtA6rB9FpKTfL3yMqL6Rxn2zMBl2r40s43aGQpicYTp8nLec3oNvxLJPbhDhExArEhicMrEU/0',`subscribe_time`='1455868205',`unionid`='olbkKt6xtiI-xll7DeJpk2YPQ3G0',`status`='1' WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' [ RunTime:0.0076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001270s ]
+NOTIC: [8] Constant APP_STATUS already defined D:\wamp\www\wxtest\index.php 第 27 行.
+
+[ 2016-02-19T17:31:24+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001484s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0081s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 101 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' LIMIT 1   [ RunTime:0.0014s ]
+SQL: UPDATE `wx_member` SET `openid`='oCmwKv_7UyoFc_Tv_h00kMKKNdF4',`nickname`='EK熊',`sex`='1',`city`='潮州',`province`='广东',`country`='中国',`headimgurl`='http://wx.qlogo.cn/mmopen/9zycFwV6r98N1RAUqqtkeY6qjDCtA6rB9FpKTfL3yMqL6Rxn2zMBl2r40s43aGQpicYTp8nLec3oNvxLJPbhDhExArEhicMrEU/0',`subscribe_time`='1455874284',`unionid`='olbkKt6xtiI-xll7DeJpk2YPQ3G0',`status`='1' WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' [ RunTime:0.0129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001764s ]
+NOTIC: [8] Constant APP_STATUS already defined D:\wamp\www\wxtest\index.php 第 27 行.
+
+[ 2016-02-19T17:32:13+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 27 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-02-19T17:36:31+08:00 ] ::1 /wxtest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002139s ]
+
+[ 2016-02-19T17:36:49+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001183s ]
+
+[ 2016-02-19T17:37:08+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016247s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+
+[ 2016-02-19T17:37:32+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004160s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0067s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `wx_member` SET `openid`='oCmwKv_7UyoFc_Tv_h00kMKKNdF4',`nickname`='EK熊',`sex`='1',`city`='潮州',`province`='广东',`country`='中国',`headimgurl`='http://wx.qlogo.cn/mmopen/9zycFwV6r98N1RAUqqtkeY6qjDCtA6rB9FpKTfL3yMqL6Rxn2zMBl2r40s43aGQpicYTp8nLec3oNvxLJPbhDhExArEhicMrEU/0',`subscribe_time`='1455874652',`unionid`='olbkKt6xtiI-xll7DeJpk2YPQ3G0',`status`='1' WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' [ RunTime:0.0061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001705s ]
+
+[ 2016-02-19T18:03:10+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004003s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0071s ]
+NOTIC: [8] Undefined variable: userInfo D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 56 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = null LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-02-19T18:04:07+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001241s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `wx_member` WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' LIMIT 1   [ RunTime:0.0007s ]
+SQL: UPDATE `wx_member` SET `unsubscribe_time`='1455876247',`status`='2' WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' [ RunTime:0.0058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003198s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003471s ]
+
+[ 2016-02-19T18:27:41+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `wx_member` WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' LIMIT 1   [ RunTime:0.0023s ]
+SQL: UPDATE `wx_member` SET `unsubscribe_time`='1455877660',`status`='2' WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `wx_subscribe` [ RunTime:0.0089s ]
+SQL: INSERT INTO `wx_subscribe` (`uid`,`nickname`,`type`,`create`) VALUES ('1','EK熊','2','1455877660') [ RunTime:0.0054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001526s ]
+
+[ 2016-02-19T18:28:11+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004752s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wx_member` WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `wx_member` SET `unsubscribe_time`='1455877691',`status`='2' WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' [ RunTime:0.0055s ]
+SQL: SHOW COLUMNS FROM `wx_subscribe` [ RunTime:0.0078s ]
+SQL: INSERT INTO `wx_subscribe` (`uid`,`nickname`,`type`,`create`) VALUES ('1','EK熊','2','1455877691') [ RunTime:0.0036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001656s ]
+
+[ 2016-02-19T18:28:30+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001546s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0096s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 96 行.
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 26 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = null LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 28 行.
+NOTIC: [8] Undefined index: nickname D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 29 行.
+NOTIC: [8] Undefined index: sex D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 30 行.
+NOTIC: [8] Undefined index: city D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 31 行.
+NOTIC: [8] Undefined index: province D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 32 行.
+NOTIC: [8] Undefined index: country D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 33 行.
+NOTIC: [8] Undefined index: headimgurl D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 34 行.
+NOTIC: [8] Undefined index: unionid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 36 行.
+ERR: 1048:Le champ 'openid' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `wx_member` (`openid`,`nickname`,`sex`,`city`,`province`,`country`,`headimgurl`,`subscribe_time`,`unionid`,`status`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL,'1455877710',NULL,'1')
+ERR: 1048:Le champ 'openid' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `wx_member` (`openid`,`nickname`,`sex`,`city`,`province`,`country`,`headimgurl`,`subscribe_time`,`unionid`,`status`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL,'1455877710',NULL,'1')
+
+[ 2016-02-19T18:30:54+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014525s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0245s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 96 行.
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 26 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = null LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 28 行.
+NOTIC: [8] Undefined index: nickname D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 29 行.
+NOTIC: [8] Undefined index: sex D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 30 行.
+NOTIC: [8] Undefined index: city D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 31 行.
+NOTIC: [8] Undefined index: province D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 32 行.
+NOTIC: [8] Undefined index: country D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 33 行.
+NOTIC: [8] Undefined index: headimgurl D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 34 行.
+NOTIC: [8] Undefined index: unionid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 36 行.
+ERR: 1048:Le champ 'openid' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `wx_member` (`openid`,`nickname`,`sex`,`city`,`province`,`country`,`headimgurl`,`subscribe_time`,`unionid`,`status`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL,'1455877854',NULL,'1')
+ERR: 1048:Le champ 'openid' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `wx_member` (`openid`,`nickname`,`sex`,`city`,`province`,`country`,`headimgurl`,`subscribe_time`,`unionid`,`status`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL,'1455877854',NULL,'1')
+
+[ 2016-02-19T18:31:28+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0094s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 96 行.
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 26 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = null LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-02-19T18:31:53+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0103s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 96 行.
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 26 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = null LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 27 行.
+
+[ 2016-02-19T18:36:35+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002675s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0066s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 96 行.
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 26 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = null LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 27 行.
+
+[ 2016-02-19T18:37:05+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0064s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 96 行.
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 26 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = null LIMIT 1   [ RunTime:0.0016s ]
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 27 行.
+
+[ 2016-02-19T18:39:20+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001698s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0059s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 96 行.
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 26 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = null LIMIT 1   [ RunTime:0.0022s ]
+NOTIC: [8] Undefined index: openid D:\wamp\www\wxtest\Application\Home\Model\MemberModel.class.php 第 27 行.
+
+[ 2016-02-19T18:39:49+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0071s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 97 行.
+
+[ 2016-02-19T22:30:04+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0049s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 95 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' LIMIT 1   [ RunTime:0.0025s ]
+SQL: UPDATE `wx_member` SET `openid`='oCmwKv_7UyoFc_Tv_h00kMKKNdF4',`nickname`='EK熊',`sex`='1',`city`='潮州',`province`='广东',`country`='中国',`headimgurl`='http://wx.qlogo.cn/mmopen/9zycFwV6r98N1RAUqqtkeY6qjDCtA6rB9FpKTfL3yMqL6Rxn2zMBl2r40s43aGQpicYTp8nLec3oNvxLJPbhDhExArEhicMrEU/0',`subscribe_time`='1455892204',`unionid`='olbkKt6xtiI-xll7DeJpk2YPQ3G0',`status`='1' WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' [ RunTime:0.0091s ]
+SQL: SHOW COLUMNS FROM `wx_subscribe` [ RunTime:0.0125s ]
+SQL: INSERT INTO `wx_subscribe` (`uid`,`nickname`,`type`,`create`) VALUES ('1','EK熊','1','1455892204') [ RunTime:0.0061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006222s ]
+
+[ 2016-02-19T22:30:19+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0033s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 95 行.
+SQL: SELECT * FROM `wx_member` WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' LIMIT 1   [ RunTime:0.0014s ]
+SQL: UPDATE `wx_member` SET `openid`='oCmwKv_7UyoFc_Tv_h00kMKKNdF4',`nickname`='EK熊',`sex`='1',`city`='潮州',`province`='广东',`country`='中国',`headimgurl`='http://wx.qlogo.cn/mmopen/9zycFwV6r98N1RAUqqtkeY6qjDCtA6rB9FpKTfL3yMqL6Rxn2zMBl2r40s43aGQpicYTp8nLec3oNvxLJPbhDhExArEhicMrEU/0',`subscribe_time`='1455892219',`unionid`='olbkKt6xtiI-xll7DeJpk2YPQ3G0',`status`='1' WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' [ RunTime:0.0086s ]
+SQL: SHOW COLUMNS FROM `wx_subscribe` [ RunTime:0.0165s ]
+SQL: INSERT INTO `wx_subscribe` (`uid`,`nickname`,`type`,`create`) VALUES ('1','EK熊','1','1455892219') [ RunTime:0.0051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003081s ]
+
+[ 2016-02-19T22:33:22+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `wx_member` WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `wx_member` SET `unsubscribe_time`='1455892402',`status`='2' WHERE `openid` = 'oCmwKv_7UyoFc_Tv_h00kMKKNdF4' [ RunTime:0.0071s ]
+SQL: SHOW COLUMNS FROM `wx_subscribe` [ RunTime:0.0033s ]
+SQL: INSERT INTO `wx_subscribe` (`uid`,`nickname`,`type`,`create`) VALUES ('1','EK熊','2','1455892402') [ RunTime:0.0045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2016-02-19T22:43:05+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+
+[ 2016-02-19T22:43:25+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+
+[ 2016-02-19T22:43:42+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001344s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0041s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+
+[ 2016-02-19T22:44:14+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0040s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+
+[ 2016-02-19T22:45:31+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0034s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+
+[ 2016-02-19T22:49:03+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0033s ]
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+
+[ 2016-02-19T22:49:04+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0032s ]
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 98 行.
+
+[ 2016-02-19T22:55:43+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001148s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0035s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 99 行.
+
+[ 2016-02-19T22:56:28+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0035s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+
+[ 2016-02-19T22:58:10+08:00 ] ::1 /wxtest/index.php?m=home&c=index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `wx_member` [ RunTime:0.0035s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\wxtest\Application\Home\Controller\IndexController.class.php 第 100 行.
+
